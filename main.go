@@ -13,9 +13,9 @@ import (
 )
 
 var (
-	oktaMetaUrl     = "https://trial-6305170.okta.com/app/exk8vtya0wTrHX0X2697/sso/saml/metadata"
-	cyberArkMetaUrl = "https://abb4702.id.cyberark.cloud/saasManage/DownloadSAMLMetadataForApp?appkey=1438e2ac-f315-49a9-a9a6-e175f0f9fc24&customerid=ABB4702"
-	oneLoginMetaUrl = "https://app.onelogin.com/saml/metadata/86e6a367-81df-4635-8ec4-0053e2955c88"
+	oktaMetaUrl     = ""
+	cyberArkMetaUrl = ""
+	oneLoginMetaUrl = ""
 	entityID        = "http://localhost:8080"
 )
 
